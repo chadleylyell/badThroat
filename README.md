@@ -1,4 +1,6 @@
-# badThroat
+<p align="center">
+  <img src="http://a.sinister.ly/gtctse.jpg">
+</p>
 Got a soar throat? Well, this is just for you!
 
 # Purpose

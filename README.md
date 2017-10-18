@@ -9,7 +9,7 @@ If you have a soar throat, and it hurts when you talk, use this simple script wr
 ```
 git clone https://github.com/chadleylyell/badThroat badThroat/
 ```
-## Usage
+# Usage
 
 ```
 cd badThroat
